@@ -11,7 +11,7 @@ public class SnakeGame {
 		 new GameFrame();
 	}
 }
-//*****************************************
+
 
 
 class GameFrame extends JFrame{
@@ -28,7 +28,7 @@ class GameFrame extends JFrame{
 		
 	}
 }
-//*****************************************
+
 
 
  class GamePanel extends JPanel implements ActionListener{
